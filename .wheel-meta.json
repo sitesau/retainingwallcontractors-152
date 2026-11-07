@@ -1,0 +1,22 @@
+{
+  "wheel_id": 812,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-152",
+  "project": "retaining-wall-contractors-common-mistakes-22dce2b6987639895994",
+  "parent_t1_ref": "retainingwallcontractors-011",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors common mistakes",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-contractors-common-mistakes-22dce2b6987639895994/",
+  "tier": "T2",
+  "writeback_nonce": "ae93e5e28db1f87a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-contractors-011/",
+      "anchor": "retaining wall contractors explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
